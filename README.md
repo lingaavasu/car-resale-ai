@@ -122,7 +122,7 @@ Do not place production secrets in GitHub.
 
 ## Author
 
-**Vamshi Krishna C / lingaavasu**
+**Srinivas L / lingaavasu**
 
 - GitHub: https://github.com/lingaavasu
 - Repository: https://github.com/lingaavasu/car-resale-ai
